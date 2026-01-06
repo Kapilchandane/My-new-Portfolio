@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { FaReact, FaNodeJs, FaJava } from "react-icons/fa";
 import { SiSpringboot } from "react-icons/si";
 import ParticlesBackground from '../components/ParticlesBackground'
-import kapil from "../assets/kapil2.jpg";
+import kapil from "../assets/k.png"
 
 const About = () => {
   
@@ -41,7 +41,7 @@ const About = () => {
         >
           {/* Profile Image */}
           <motion.div
-            className="w-65 h-75 rounded-2xl overflow-hidden border border-white/20 shadow-lg"
+            className="w-65 h-100 rounded-2xl overflow-hidden border border-white/20 shadow-lg"
             initial={{ scale: 0.8, opacity: 0 }}
             whileInView={{ scale: 1, opacity: 1 }}
             transition={{ duration: 0.6, delay: 0.2 }}

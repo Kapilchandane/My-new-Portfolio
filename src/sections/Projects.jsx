@@ -31,7 +31,7 @@ const Projects = () => {
 
           <div className="p-6">
             <h3 className="text-xl font-semibold mb-3 group-hover:text-blue-400 transition">
-              AttendSys – Attendance Management System
+              SAMSTRACK – Attendance Management System
             </h3>
 
             <p className="text-slate-300 text-sm mb-5">
@@ -54,7 +54,7 @@ const Projects = () => {
             {/* Links */}
             <div className="flex gap-4">
               <a
-                href="https://github.com/Kapilchandane/AttendSys.git"
+                href="https://github.com/Kapilchandane/SAMSTRACK_REACT.git"
                 target="_blank"
                 rel="noreferrer"
                 className="flex-1 text-center bg-blue-600 hover:bg-blue-700 transition rounded-lg py-2 text-sm font-medium"
